@@ -10,11 +10,11 @@ assignees: ''
 <!-- Describe the figure. What is the image intended to show? -->
 
 # Method
-<!-- How will the figure be produced? ex. TikZ, Python -->
+<!-- How will the figure be produced? ex. TikZ, Python, Inkscape -->
 **Program:** 
 
 <!-- Include any additional notes that may be useful for a developer. -->
-
+**Additional Notes:**
 
 # How can this issue be closed?
 Issue can be closed when the following criteria has been met:
@@ -22,5 +22,5 @@ Issue can be closed when the following criteria has been met:
 - [ ] Includes a caption that is standalone and ends with correct punctuation.
 - [ ] Includes a legend (if needed).
 - [ ] All text in the figure is large enough to be easily read.
-- [ ] Has a label (use `\label{}`)
+- [ ] Has a label (use `\label{}`).
 - [ ] Are your color choices appropriate for [adequate accessibility](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html#the-color-scales)? 
