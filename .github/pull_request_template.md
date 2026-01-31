@@ -20,13 +20,13 @@
 
 - [ ] I have read the **CONTRIBUTING** document.
 - [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation. <!-- Delete if not applicable -->
 - [ ] I have updated the documentation accordingly. <!-- Delete if not applicable -->
 - [ ] I have added tests to cover my changes. <!-- Delete if not applicable -->
 
 ## Associated Issues and PRs
 <!--
-    Please note any issues or pull requests associated with this pull request.
+    Please note any issues or pull requests associated with this pull request using GitHub keywords. 
+    Note that for multiple issue linking, a keyword must be included before each issue.
 -->
 
 - Issue: closes #
