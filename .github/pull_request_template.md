@@ -29,7 +29,7 @@
     Note that for multiple issue linking, a keyword must be included before each issue.
 -->
 
-- Issue: closes #
+- closes #
 
 ## Associated Developers
 <!--
